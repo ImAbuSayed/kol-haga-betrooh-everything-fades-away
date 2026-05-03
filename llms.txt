@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> كل حاجة بتروح في ثواني
+> بس حبك جوه وجداني
+> في السكوت بسمع أغاني
+> نور عيونك لسه ناداني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
