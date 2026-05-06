@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kol-haga-betrooh-everything-fades-away/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Usage Rights for Kol Haga Betrooh – Everything fades away](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Kol Haga Betrooh – Everything fades away](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
