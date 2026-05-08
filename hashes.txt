@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kol Haga Betrooh – Everything fades away
+
+This log tracks the cryptographic history and versioning for the song **Kol Haga Betrooh – Everything fades away** (kol-haga-betrooh-everything-fades-away).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:53:06.714338 | `v1` | `5d17bffa994e6afbaa8ac6ff1315c4a661a516ef8098636960055f97e4952b16` | `b2577b6e6f776a866c2cde1fe1043f02d5a5d962d291c15878276e24ce78052c` | `2026-05-09_kol-haga-betrooh-everything-fades-away-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
